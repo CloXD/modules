@@ -3,4 +3,4 @@ channels:
   - bioconda
   - defaults
 dependencies:
-  - bioconda::ensembl-vep=110.0
+  - bioconda::ensembl-vep=110.1
